@@ -11,6 +11,7 @@
 <p>
 <a href="https://hjk329.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-0095D5?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:dev.hjk329@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dev.hjk329@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hyungji-kim-3998b8195" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <p/>
   
 

@@ -17,8 +17,8 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjk329&theme=dracula&"/>
-
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjk329&theme=dracula&"/>
+ -->
 
 
 ### Skills 🏄🏻‍♀️

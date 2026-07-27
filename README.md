@@ -31,10 +31,3 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </p>
 </div>
-
-
-<p align="center">
-<a href="https://gitfut.com/hyungjikim" class="align:right">
-  <img src="https://gitfut.com/hyungjikim.png?country=KR" alt="My GitFut card" width="150">
-</a>
-</p
